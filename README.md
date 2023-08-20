@@ -1,2 +1,2 @@
-# graph_training
+# Graph theory
 repository to help me handle college projects
